@@ -23,3 +23,6 @@ End.
 ```
 
 #### Este repositório é uma lembrança desse tempo, contendo programas criados em Pascal
+
+---
+###### ✏️ Desenvolvido por: [*Wesley Dias*](https://github.com/WeDias)
