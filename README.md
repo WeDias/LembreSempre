@@ -15,7 +15,7 @@ Se hoje tenho facilidade com estas coisas foi graças a meu professor ter usado 
 Ainda não sei dizer o que me motiva querer e gostar de aprender, ou mesmo passar mais de 12h programando, apenas sei que nunca foi por dinheiro ou obrigação!   
 
 ##### O começo da jornada:
-```
+```pascal
 Program OlaMundo;
 
 Begin
